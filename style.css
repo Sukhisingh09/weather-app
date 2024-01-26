@@ -52,9 +52,7 @@ body{
     color: #fff;
     background-color: #ababab;
 }
-.weather-body img{
-    width: 50%;
-}
+
 .weather-body{
     justify-content: center;
     align-items: center;
@@ -131,4 +129,9 @@ body{
 }
 .location-not-found img{
     width: 80%;
+}
+.weather-img{
+
+    height: 100px;
+    width: 100px;
 }
